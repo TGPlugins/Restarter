@@ -1,5 +1,5 @@
 name: Restarter
-version: 1.0
+version: 1.1
 author: njb_said
 main: me.njb_said.Restarter.Main
 description: Server restarter for prison.
