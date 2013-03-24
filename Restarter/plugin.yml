@@ -1,0 +1,9 @@
+name: Restarter
+version: 1.0
+author: njb_said
+main: me.njb_said.Restarter.Main
+description: Server restarter for prison.
+commands:
+  restart:
+    description: Restarts the server (From config countdown)
+    aliases: [rs,ra]
